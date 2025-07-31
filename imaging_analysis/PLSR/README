@@ -1,0 +1,8 @@
+These codes are used for analysis after PLSR correction applied.
+
+Following matlab codes are uploaded.
+
+PLSR_ddf_all.m         - average sensory-driven activity for each behavior periods.
+PLSR_FC_all.m          - average sensory-driven FC for each behavior periods.
+PLSR_ddf_merge_all.m   - stack sensory-driven activity data for each track across animals.
+PLSR_FC_merge_all.m    - stack sensory-driven FC data for each track across animals.
