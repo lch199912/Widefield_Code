@@ -1,0 +1,6 @@
+These codes are used for behavior analysis.
+All behavioral data were acquired from video file, algined by motor signal recorded by Labview.
+From video recorded body movements, Deeplabcut extracted the hindpaw skeleton data as pixel position.
+From video recorded face movements, Facemap extracted the pupil area data as std.
+
+Following matlab codes are uploaded.
