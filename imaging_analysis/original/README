@@ -1,0 +1,8 @@
+These codes are used for analysis before PLSR correction applied.
+
+Following matlab codes are uploaded.
+
+ICA_ddf_all.m     - average original activity for each behavior periods.
+ICA_FC_all.m      - average original FC for each behavior periods.
+ICA_ddf_merge.m   - stack original activity data for each track across animals.
+ICA_FC_merge.m   - stack original FC data for each track across animals.
