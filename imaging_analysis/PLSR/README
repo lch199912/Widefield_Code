@@ -2,6 +2,9 @@ These codes are used for analysis after PLSR correction applied.
 
 Following matlab codes are uploaded.
 
+PLSR_data_all.m        - apply PLSR for activity or FC. This code needs dependency from West et al., 2024 (github link below).
+https://github.com/west0883/calcium_imaging_of_externally_and_internally_driven_locomotion
+
 PLSR_ddf_all.m         - average sensory-driven activity for each behavior periods.
 PLSR_FC_all.m          - average sensory-driven FC for each behavior periods.
 PLSR_ddf_merge_all.m   - stack sensory-driven activity data for each track across animals.
